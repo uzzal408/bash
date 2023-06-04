@@ -1,0 +1,33 @@
+man - means manual. 
+clear - clear display
+pwd - present working directory
+cd  - change directory
+echo - print somthing
+whoami - who is the current user
+su - change user
+sudo bash - change to root user
+sudo useradd username - to add new user
+sudo passwd username - to add password to user
+sudo userdel username - to delete the user
+sudo groupadd groupname - to create new group
+sudo groupdel groupname - to remove group
+rm -r dirname - remove non-empty direcotry
+rm -rp dirname - to remove non-empty inlcuding parent and subdirectories
+lsof - details all opening file with associate user, size, pid etc.
+id - show id accoicate with user
+tar - to zip/unzip
+tar cvf filename source-folder-name - to zip .tar file
+tar xvf filename 
+uniq filename  = unique cmd use to find duplicate line in a file
+free = to show fress memory in whol system
+free -b = to sho in byte 
+free -m = to show in megabytes
+free -g = to show in gigabytes
+ifconfig -a = to show all network interface
+ifconfig -s = to show shortlist instead of all details
+ip  = it is more powerfull then ifconfig
+netstat = to get network information
+nslookup = to fix and inforamtion nameserver/doamin related issue
+
+apt-get  = to install somthing
+df = disk free cammand to see free disk
